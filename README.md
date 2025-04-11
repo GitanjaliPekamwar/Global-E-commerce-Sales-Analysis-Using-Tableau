@@ -2,7 +2,7 @@
 
 This interactive **Global Ecommerce Dashboard** was built using Tableau to analyze **Year-To-Date (YTD) Sales Performance** across regions, product categories, and customer segments. The goal is to track KPIs, identify market trends, and uncover actionable insights for strategic decisions.
 
-![Global Ecommerce Dashboard](./image.png)
+![Global Ecommerce Dashboard](https://github.com/GitanjaliPekamwar/Global-E-commerce-Sales-Analysis-Using-Tableau/blob/main/Screenshot%202025-04-11%20130715.png)
 
 ---
 
