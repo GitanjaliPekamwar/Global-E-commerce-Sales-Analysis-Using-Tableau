@@ -55,7 +55,7 @@ This interactive **Global Ecommerce Dashboard** was built using Tableau to analy
 
 ## 📎 How to View the Dashboard
 
-- **Hosted on Tableau Public**: [Insert your Tableau Public link here]
+- **Hosted on Tableau Public**: [https://github.com/GitanjaliPekamwar/Global-E-commerce-Sales-Analysis-Using-Tableau/blob/main/Global%20Ecommerce%20Sales%20Analysis%20Dashboard.twbx]
 - Or open the `.twbx` file in Tableau Desktop
 
 ---
